@@ -1,2 +1,0 @@
-# gittest-
-Clear gittest
