@@ -1,0 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+	/*background: #FFF;*/
+	margin-top: 20px;
+}
+input {
+	/*background-color: #000;*/
+	user-select: none;
+}
+#radio {
+
+}
